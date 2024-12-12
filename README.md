@@ -26,6 +26,8 @@
 
 ## 📸 Screenshots
 
+https://github.com/user-attachments/assets/bb941233-8c19-4336-a89a-c079688dbc65
+
 ![AskMyDoc Screenshot 1](./screenshots/screenshot1.png)
 ![AskMyDoc Screenshot 2](./screenshots/screenshot2.png)
 
